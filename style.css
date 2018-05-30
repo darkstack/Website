@@ -15,6 +15,20 @@ a {
   color:#fff;
 }
 
+div#err {
+  height:510px;
+  width:575px;
+  margin-left:-288px;
+  margin-top:-255px;
+  background:url("gfx/err.jpg") no-repeat;
+}
+
+div#err.centered {
+  position:absolute;
+  top:50%;
+  left:50%;
+}
+
 div#imo {
   height:282px;
   width:500px;
