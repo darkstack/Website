@@ -1,0 +1,42 @@
+body {
+  color:#fff;
+  background:#294563;
+  font-family:Helvetica;
+  font-size:1em;
+}
+
+a {
+  color:#fff;
+  background:transparent;
+  text-decoration:none;
+}
+
+div#imo {
+  height:282px;
+  width:500px;
+  margin-left:-250px;
+  margin-top:-141px;
+  background:url("gfx/imo.gif") no-repeat;
+}
+
+div#imo.centered {
+  position:absolute;
+  top:50%;
+  left:50%;
+}
+
+div#imo a {
+  position: relative;
+  top:290px;
+  left:240px;
+  width:150px;
+  height:100px;
+  display:block;
+}
+div#footer {
+  position:absolute;
+  bottom:2px;
+  right:2px;
+  color:#777;
+  font-size:0.8em;
+}
