@@ -11,6 +11,10 @@ a {
   text-decoration:none;
 }
 
+.white{
+  color:#fff;
+}
+
 div#imo {
   height:282px;
   width:500px;
