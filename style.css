@@ -14,6 +14,9 @@ a {
 .white{
   color:#fff;
 }
+div#pres{
+  text-align: center;
+}
 
 div#err {
   height:510px;
